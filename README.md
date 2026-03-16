@@ -1,13 +1,13 @@
 ## Hi 👋 I'm Adam
-💻 Software Engineering student at the University of Waterloo
+- Software Engineering student at the University of Waterloo 🪿
 
-⚙️ Interested in machine learning, backend development, AI systems and data-driven software
+- Interested in machine learning, backend development, AI systems and data-driven software
 
-📈 Currently working with WatStreet, Waterloo's Quant Finance design team, building market regime detection models
+- Currently working with WatStreet, Waterloo's Quant Finance design team, building market regime detection models
 
-📄 Did research on LLM interpretability, with work accepted at NeurIPS MechInterp workshop
+- Did research on LLM interpretability, with work accepted at NeurIPS MechInterp workshop
 
-🌐 Portfolio: [akamel.dev](https://akamel.dev)
+- Portfolio: [akamel.dev](https://akamel.dev)
 
 
 <!--
