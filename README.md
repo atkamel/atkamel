@@ -1,27 +1,21 @@
-## Hi 👋 I'm Adam
-- Software Engineering student at the University of Waterloo 🪿
+# Adam Kamel
+Software Engineering @ Waterloo
 
-- Interested in machine learning, backend development, AI systems and data-driven software
+[akamel.dev](https://akamel.dev)
 
-- Currently working with WatStreet, Waterloo's Quant Finance design team, building market regime detection models
+## currently
+- co-lead of [WorldFold](https://github.com/LegendaryAKx3/WorldFold) @ Wat.AI: world models + RL for robotic cloth manipulation
+- market-regime detection models @ WatStreet
 
-- Did research on LLM interpretability, with work accepted at NeurIPS MechInterp workshop
+## past
+- summer 2026: RAG over restructuring documents @ b(x) Theory
+- summer 2025: AI agents for construction back-office @ Workbench
 
-- Portfolio: [akamel.dev](https://akamel.dev)
+## publications
+- [Emergent World Beliefs](https://arxiv.org/abs/2512.23722): do poker transformers form beliefs about hidden state? (NeurIPS 2025 MechInterp Workshop)
+- [RSCE](https://aclanthology.org/2026.knowfm-1.11/): training-free context compression via residual-stream vectors (KnowFM 2026)
 
-
-<!--
-**LegendaryAKx3/LegendaryAKx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...!
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+- [launchpilot](https://github.com/LegendaryAKx3/launchpilot): multi-agent brief-to-launch workflow, Backboard.io Best Use @ Hack Canada 2026
+- [goosemarket](https://github.com/LegendaryAKx3/goosemarket): prediction market for UWaterloo with a custom automated market maker
+- [pufferfish](https://github.com/Selyss/pufferfish): chess engine with NNUE evaluation
