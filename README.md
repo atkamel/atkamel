@@ -5,10 +5,10 @@ Software Engineering @ Waterloo
 
 ## currently
 - co-lead of [WorldFold](https://github.com/LegendaryAKx3/WorldFold) @ Wat.AI: world models + RL for robotic cloth manipulation
-- market-regime detection models @ WatStreet
 
 ## past
 - summer 2026: RAG over restructuring documents @ b(x) Theory
+- winter-summer 2026 market-regime detection models @ WatStreet 
 - summer 2025: AI agents for construction back-office @ Workbench
 
 ## publications
